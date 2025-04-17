@@ -12,8 +12,13 @@ About Me: I’m a graduate in Data Science with dual master's in Software System
 #### Visualisations and BI Tools:
 <img alt="Static Badge" src="https://camo.githubusercontent.com/0350afbf1a971ce21c8a49b86f8632d4f3a46d397f6f9bf078050bbc677a9045/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d53253230457863656c2d3231373334363f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465">
 
+### GOOGLE SCHOLAR
+<a href='https://scholar.google.com/citations?hl=en&user=3ssD8r8AAAAJ'>Google Scholar Portfolio</a>
+                                                                  
+### ORCID
+<a href='https://orcid.org/0000-0001-7320-7959'>ORCID Portfolio</a>
+
 ### PATENT 
-Autonomous Explosion Detecting Device, India, 202111034607
-https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspxAppNo=MjAyMTExMDM0NjA3&FullPath=LVBhdGVudENlcnRpZmljYXRlMDktMTItMjAyNC5wZGY=
+<a href='https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspxAppNo=MjAyMTExMDM0NjA3&FullPath=LVBhdGVudENlcnRpZmljYXRlMDktMTItMjAyNC5wZGY='>Autonomous Explosion Detecting Device, India, 202111034607</a>
 
 
