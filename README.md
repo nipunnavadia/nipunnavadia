@@ -1,46 +1,19 @@
-# NIPUN RANCHHOD NAVADIA
-New York, NY 10038 | nipunranchhod.navadia@pace.edu| 732-318-1705 | LinkedIn | Google Scholar
+<h1 align="center">Nipun Ranchhod Navadia</h1>
+
+About Me: I’m a graduate in Data Science with dual master's in Software Systems (Cyber Security) and 4 years of Cyber Security experience and advanced Data Analysis expertise, author of published papers, passionate about AI and machine learning—driven to build secure, intelligent, data‑driven solutions that deliver real‑world impact through innovation and strategic insight. I’m looking to collaborate with forward-thinking teams to put a meaningful ding in the universe and help shape the future through technology.
  
-## EDUCATION
-Pace University, Seidenberg School of Computer Science and Information Systems 	New York, USA
-Master of Science (MS) in Data Science | Concentration: Data Science and Analytics	December, 2026
+### SKILLS
+#### Technical Skills: 
+<img alt="Static Badge" src="https://camo.githubusercontent.com/8a881dcf60e426b18b95d5a46f1794bd271c3d3bec83ac59a804ade12466fedc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"> <img alt="Static Badge" src="https://camo.githubusercontent.com/3a0ea6374046ea6527bacace1a0bb4834ecdb540461fffb00a6ee8f39c7034df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6962726172792d5363696b69742d2d6c6561726e2d4637393331453f7374796c653d666c61742d737175617265266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465">
+<img alt="Static Badge" src= https://camo.githubusercontent.com/b3a02c70b03d9bda391aa489cb43029df408dc1194f7b4c04031db8813e4cc43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6962726172792d50616e6461732d3135303435383f7374796c653d666c61742d737175617265266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465>
+<img alt="Static Badge" src=https://camo.githubusercontent.com/ba631fc47058c14502b29b441a403fc0986e012ac2912d16d31b614782b15eef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6962726172792d4e756d50792d3031333234333f7374796c653d666c61742d737175617265266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465>
 
-Birla Institute of Technology and Science, Work Integrated Learning Program Division	Pilani, India
-Master of Technology (MTech) in Software Systems | Concentration: Cyber Security	July, 2024
 
-Dr. A.P.J. Abdul Kalam Technical University, Dronacharya Group of Institutions	Greater Noida, India
-Bachelor of Technology (BTech) in Computer Science and Engineering	September, 2020
-	
-## SKILLS
-Technical: Microsoft Office Suite (Word, Excel, PowerPoint) | Google Suite | Adobe Creative Suite | Python | EDA | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Supervised and Unsupervised Algorithms | IronPort 
+#### Visualisations and BI Tools:
+<img alt="Static Badge" src="https://camo.githubusercontent.com/0350afbf1a971ce21c8a49b86f8632d4f3a46d397f6f9bf078050bbc677a9045/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d53253230457863656c2d3231373334363f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465">
 
-## PROFESSIONAL EXPERIENCE
-### Capgemini                                                                                                                                                      	Gurugram, India
-Associate Consultant	July 2023 – January 2025
-•	Working in close partnership with CISOs, DPOs, CISAs, and legal teams across multiple sectors globally to strengthen security posture and compliance.
-•	Improved response times by 30% by conducting in-depth analysis of logs and endpoints to identify and remediate threats.
-•	Reduced 750k vulnerabilities out of 900k while considering approved client exceptions, achieving a 25% improvement in security posture and a 97% reduction in business risk by directing cross-functional teams to implement security initiatives.
-
-Senior Software Engineer	January 2023 – June 2023
-•	Increased profitability by reducing costs by 20%, saving time, and enhancing security operations through engineered automated solutions.
-•	Managed the end-to-end vulnerability management workflow, ensuring timely remediation and high-quality test documentation.
-•	Developed dashboards and reports to monitor operational scope, leading efforts to close performance gaps.
-
-Software Engineer	April 2021 – December 2022
-•	Improved security posture by 25% and remediated 50000+ vulnerabilities within 3 months through strategic recommendations.
-•	Reduced operational time by 20% through Python automation and scripting.
-•	Increased team productivity by 30% by leading daily operations, resource planning, and team initiatives.  
-
-## LEADERSHIP EXPERIENCE
-Capgemini, Gurugram, India | Vulnerability Management Lead	July 2023 – June 2024
-•	Accomplished 25% increase in security posture and a 30% reduction in incident response time by supervising and managing a team of 5 to spearhead cross-functional collaboration, optimizing resource utilization and project priorities.
-•	Achieved a 97% reduction in business risk by directing security remediation initiatives, quantifying and communicating their impact, and aligning security efforts with organizational objectives.
-
-PATENT 
+### PATENT 
 Autonomous Explosion Detecting Device, India, 202111034607
-https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAyMTExMDM0NjA3&FullPath=LVBhdGVudENlcnRpZmljYXRlMDktMTItMjAyNC5wZGY=
+https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspxAppNo=MjAyMTExMDM0NjA3&FullPath=LVBhdGVudENlcnRpZmljYXRlMDktMTItMjAyNC5wZGY=
 
-VOLUNTEER EXPERIENCE 
-BAPS Swaminarayan Sanstha, Delhi, India December 2005 – January 2025
-• Contributed as a volunteer with social services while actively participating in meetings to organize events, conferences, and related activities.
 
