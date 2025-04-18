@@ -12,9 +12,26 @@ About Me: I’m a graduate in Data Science with dual master's in Software System
 #### Visualisations and BI Tools:
 <img alt="Static Badge" src="https://camo.githubusercontent.com/0350afbf1a971ce21c8a49b86f8632d4f3a46d397f6f9bf078050bbc677a9045/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d53253230457863656c2d3231373334363f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465">
 
-### GOOGLE SCHOLAR
+### Google Scholar
 <a href='https://scholar.google.com/citations?hl=en&user=3ssD8r8AAAAJ'>Google Scholar Portfolio</a>
-                                                                  
+
+### Published Papers, Articles and Book Chapters
+<a href='https://www.google.com/books/edition/Challenges_and_Opportunities_for_Deep_Le/f-6bEAAAQBAJ?hl=en&gbpv=1&dq=info:Oy8NIs0e3UEJ:scholar.google.com&pg=PA181&printsec=frontcover'>Applications of AI in Agriculture</a>
+
+<a href='https://www.igi-global.com/chapter/applications-of-cloud-based-internet-of-things/279477'>Applications of Cloud-Based Internet of Things</a>
+
+<a href='https://link.springer.com/chapter/10.1007/978-981-16-2712-5_9'>Covid-19: Machine Learning Algorithms to Predict Mortality Rate for Advance Testing and Treatment</a>
+
+<a href='https://link.springer.com/chapter/10.1007/978-981-16-2712-5_8'>Effects of SARS-COV-2 on Blood</a>
+
+<a href='https://www.taylorfrancis.com/chapters/edit/10.1201/9781003146711-15/critical-survey-autonomous-vehicles-nipun-navadia-gurleen-kaur-harshit-bhardwaj-aditi-sakalle-yashpal-singh-taranjeet-singh-arpit-bhardwaj-divya-acharya'>A Critical Survey of Autonomous Vehicles</a>
+
+<a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2022/5960976'>CloudConsumerism: A Consumer‐Centric Ranking Model for Efficient Service Mapping in Cloud</a>
+
+<a href='https://link.springer.com/chapter/10.1007/978-3-031-13150-9_46'>Brain hemorrhage detection using deep learning: convolutional neural network</a>
+
+<a href='https://www.google.com/books/edition/Challenges_and_Opportunities_for_Deep_Le/f-6bEAAAQBAJ?hl=en&gbpv=1&dq=info:LVBXp7VT8Q4J:scholar.google.com&pg=PA1&printsec=frontcover'>Challenges and Opportunities for Deep Learning Applications in Industry 4.0</a>
+
 ### ORCID
 <a href='https://orcid.org/0000-0001-7320-7959'>ORCID Portfolio</a>
 
