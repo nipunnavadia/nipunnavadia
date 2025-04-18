@@ -19,6 +19,8 @@ About Me: I’m a graduate in Data Science with dual master's in Software System
 <a href='https://orcid.org/0000-0001-7320-7959'>ORCID Portfolio</a>
 
 ### PATENT 
-<a href='https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspxAppNo=MjAyMTExMDM0NjA3&FullPath=LVBhdGVudENlcnRpZmljYXRlMDktMTItMjAyNC5wZGY='>Autonomous Explosion Detecting Device, India, 202111034607</a>
+<a href='https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAyMTExMDM0NjA3&FullPath=LVBhdGVudENlcnRpZmljYXRlMDktMTItMjAyNC5wZGY='>Autonomous Explosion Detecting Device, India, 202111034607</a>
+
+<a href='https://search.ipindia.gov.in/IPOJournal/Journal/ViewJournal'>STOLEN VEHICLE'S RECOVERY SYSTEM AND METHODS THEREOF : PAGE-18952</a>
 
 
